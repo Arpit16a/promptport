@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-.title{
+.head{
+    padding-right: -40px;
+    margin-right: -2000px;
     text-align: right;
     text-decoration: solid;
     font-size: large;
